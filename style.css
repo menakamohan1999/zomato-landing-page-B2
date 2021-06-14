@@ -81,6 +81,32 @@ body{
     margin: 20px 0;
 }
 
+.explore_menu_text{
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.food_card{
+    background-color: #fff;
+    border-radius: 8px;
+
+}
+
+.food_card_image_container{
+    width:100%;
+}
+
+.food_image{
+    width:100%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 15px;
+}
+
+.food_card_description{
+    padding: 15px;
+}
 
 
 @media (min-width:768px){
